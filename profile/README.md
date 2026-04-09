@@ -1,56 +1,50 @@
-# Windstorm-Labs
+# Windstorm Labs
 
 **Experimental code and reproducibility infrastructure for the Windstorm Institute paper series.**
 
-This organization contains runnable experiments, raw data, and analysis code supporting research on information-theoretic constraints in serial decoding systems.
+> **Note on the org slug.** This organization's URL is `WIndstorm-Labs` (capital `I` after `W`) due to a typo at org-creation time. GitHub does not support renaming an org slug without breaking every existing URL. A correctly-cased `Windstorm-Labs` mirror is planned; until then, please use the existing URL.
 
 ---
 
 ## Series Index
 
-| # | Repository | Status | Compute | Key Result |
-|---|------------|--------|---------|------------|
-| 1 | [fons-constraint](https://github.com/Windstorm-Labs/fons-constraint) | ✅ Published | — | 64-codon derivation |
-| 2 | [receiver-limited-floor](https://github.com/Windstorm-Labs/receiver-limited-floor) | ✅ Complete | ~8 hrs RTX 5090 | 1,749 models, BPT ⊥ vocab |
-| 3 | [throughput-basin](https://github.com/Windstorm-Labs/throughput-basin) | ✅ Published | Meta-analysis | 31 systems |
-| 4 | [dissipative-decoder](https://github.com/Windstorm-Labs/dissipative-decoder) | ✅ Published | ~6 hrs RTX 5090 | 27-model energy benchmark |
-| 5 | [serial-decoding-basin](https://github.com/Windstorm-Labs/serial-decoding-basin) | ✅ Published | — | τ = 4.16 ± 0.19 bits |
-| 6 | [inherited-constraint](https://github.com/Windstorm-Labs/inherited-constraint) | ✅ Published | ~4 hrs RTX 5090 | 7-corpus shuffling |
-| 7 | [agi-extensions](https://github.com/Windstorm-Labs/agi-extensions) | 🚧 In Progress | 32-56 hrs RTX 5090 | 6 new experiments |
+| # | Repository | Status | DOI | Compute |
+|---|------------|--------|-----|---------|
+| 1 | [fons-constraint](https://github.com/WIndstorm-Labs/fons-constraint) | ✅ Published | [10.5281/zenodo.19274048](https://doi.org/10.5281/zenodo.19274048) | — |
+| 2 | [receiver-limited-floor](https://github.com/WIndstorm-Labs/receiver-limited-floor) | ✅ Published | [10.5281/zenodo.19322973](https://doi.org/10.5281/zenodo.19322973) | ~8 hrs RTX 5090 |
+| 3 | [throughput-basin](https://github.com/WIndstorm-Labs/throughput-basin) | ✅ Published | [10.5281/zenodo.19323194](https://doi.org/10.5281/zenodo.19323194) | Meta-analysis |
+| 4 | [serial-decoding-basin](https://github.com/WIndstorm-Labs/serial-decoding-basin) | ✅ Published | [10.5281/zenodo.19323423](https://doi.org/10.5281/zenodo.19323423) | — |
+| 5 | [dissipative-decoder](https://github.com/WIndstorm-Labs/dissipative-decoder) | ✅ Published | [10.5281/zenodo.19433048](https://doi.org/10.5281/zenodo.19433048) | ~6 hrs RTX 5090 |
+| 6 | [inherited-constraint](https://github.com/WIndstorm-Labs/inherited-constraint) | ✅ Published | [10.5281/zenodo.19432911](https://doi.org/10.5281/zenodo.19432911) | ~4 hrs RTX 5090 |
+| 7 | [agi-extensions](https://github.com/WIndstorm-Labs/agi-extensions) | 🟡 Preprint | Pending Paper 7.1 | ~14.5 hrs RTX 5090 |
 
-Legend: ✅ Complete (paper + code) | ✅ Published (paper on Zenodo) | 🚧 In Progress
+**Paper 7 canonical repository:** [sneakyfree/agi-extensions](https://github.com/sneakyfree/agi-extensions). The Labs mirror tracks the experiment protocols; the canonical repo holds the formal manuscript, the internal adversarial review, complete CSVs, plots, and the [Paper 7.1 tracking issue](https://github.com/sneakyfree/agi-extensions/issues/1).
+
+> **Read this before citing Paper 7.** The paper is published together with its full internal adversarial review, which identifies four blocking items that constrain the headline. The defensible claim is *"At 92M parameters, on Markov synthetic data with corpus-specific BPE tokenizers, training-data token entropy is the dominant predictor of achieved BPT, and we find no positive evidence of a transformer-specific ~4-bit ceiling in this regime."* The stronger claim requires the Paper 7.1 re-runs.
 
 ---
 
 ## Quick Links
 
-- **Paper Publications:** https://github.com/Windstorm-Institute
-- **Institute Website:** https://windstorminstitute.org
+- **Paper publications:** [Windstorm-Institute](https://github.com/Windstorm-Institute)
+- **Institute website:** [windstorminstitute.org](https://windstorminstitute.org)
 - **Principal Investigator:** Grant Lavell Whitmer III
-
----
 
 ## Reproducibility
 
 All experiments designed for:
-- **Hardware:** NVIDIA RTX 5090 (32GB VRAM)
+- **Hardware:** NVIDIA RTX 5090 (32 GB VRAM)
 - **OS:** Ubuntu 24.04
 - **Python:** 3.11+
 
-See individual repository READMEs for:
-- Quick start instructions
-- Exact dependency versions
-- Runtime estimates
-- Results validation
-
----
+See individual repository READMEs for quick-start instructions, exact dependency versions, runtime estimates, and validation steps.
 
 ## Contributing
 
-Found an issue? [Open a ticket](../../issues)  
-Want to extend? Fork and submit a PR  
-Questions? Contact via institute website
+- Found an issue? Open a ticket on the relevant repository.
+- Want to extend? Fork and submit a PR.
+- Questions? Contact via the institute website.
 
 ---
 
-*Code: MIT License | Data: CC BY 4.0*
+*Code: MIT License · Data: CC BY 4.0*
