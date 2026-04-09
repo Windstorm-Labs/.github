@@ -2,7 +2,7 @@
 
 **Experimental code and reproducibility infrastructure for the Windstorm Institute paper series.**
 
-> **Note on the org slug.** This organization's URL is `WIndstorm-Labs` (capital `I` after `W`) due to a typo at org-creation time. GitHub does not support renaming an org slug without breaking every existing URL. A correctly-cased `Windstorm-Labs` mirror is planned; until then, please use the existing URL.
+
 
 ---
 
@@ -10,13 +10,13 @@
 
 | # | Repository | Status | DOI | Compute |
 |---|------------|--------|-----|---------|
-| 1 | [fons-constraint](https://github.com/WIndstorm-Labs/fons-constraint) | ✅ Published | [10.5281/zenodo.19274048](https://doi.org/10.5281/zenodo.19274048) | — |
-| 2 | [receiver-limited-floor](https://github.com/WIndstorm-Labs/receiver-limited-floor) | ✅ Published | [10.5281/zenodo.19322973](https://doi.org/10.5281/zenodo.19322973) | ~8 hrs RTX 5090 |
-| 3 | [throughput-basin](https://github.com/WIndstorm-Labs/throughput-basin) | ✅ Published | [10.5281/zenodo.19323194](https://doi.org/10.5281/zenodo.19323194) | Meta-analysis |
-| 4 | [serial-decoding-basin](https://github.com/WIndstorm-Labs/serial-decoding-basin) | ✅ Published | [10.5281/zenodo.19323423](https://doi.org/10.5281/zenodo.19323423) | — |
-| 5 | [dissipative-decoder](https://github.com/WIndstorm-Labs/dissipative-decoder) | ✅ Published | [10.5281/zenodo.19433048](https://doi.org/10.5281/zenodo.19433048) | ~6 hrs RTX 5090 |
-| 6 | [inherited-constraint](https://github.com/WIndstorm-Labs/inherited-constraint) | ✅ Published | [10.5281/zenodo.19432911](https://doi.org/10.5281/zenodo.19432911) | ~4 hrs RTX 5090 |
-| 7 | [agi-extensions](https://github.com/WIndstorm-Labs/agi-extensions) | 🟡 Preprint | Pending Paper 7.1 | ~14.5 hrs RTX 5090 |
+| 1 | [fons-constraint](https://github.com/Windstorm-Labs/fons-constraint) | ✅ Published | [10.5281/zenodo.19274048](https://doi.org/10.5281/zenodo.19274048) | — |
+| 2 | [receiver-limited-floor](https://github.com/Windstorm-Labs/receiver-limited-floor) | ✅ Published | [10.5281/zenodo.19322973](https://doi.org/10.5281/zenodo.19322973) | ~8 hrs RTX 5090 |
+| 3 | [throughput-basin](https://github.com/Windstorm-Labs/throughput-basin) | ✅ Published | [10.5281/zenodo.19323194](https://doi.org/10.5281/zenodo.19323194) | Meta-analysis |
+| 4 | [serial-decoding-basin](https://github.com/Windstorm-Labs/serial-decoding-basin) | ✅ Published | [10.5281/zenodo.19323423](https://doi.org/10.5281/zenodo.19323423) | — |
+| 5 | [dissipative-decoder](https://github.com/Windstorm-Labs/dissipative-decoder) | ✅ Published | [10.5281/zenodo.19433048](https://doi.org/10.5281/zenodo.19433048) | ~6 hrs RTX 5090 |
+| 6 | [inherited-constraint](https://github.com/Windstorm-Labs/inherited-constraint) | ✅ Published | [10.5281/zenodo.19432911](https://doi.org/10.5281/zenodo.19432911) | ~4 hrs RTX 5090 |
+| 7 | [agi-extensions](https://github.com/Windstorm-Labs/agi-extensions) | 🟡 Preprint | Pending Paper 7.1 | ~14.5 hrs RTX 5090 |
 
 **Paper 7 canonical repository:** [sneakyfree/agi-extensions](https://github.com/sneakyfree/agi-extensions). The Labs mirror tracks the experiment protocols; the canonical repo holds the formal manuscript, the internal adversarial review, complete CSVs, plots, and the [Paper 7.1 tracking issue](https://github.com/sneakyfree/agi-extensions/issues/1).
 
