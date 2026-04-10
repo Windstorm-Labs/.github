@@ -16,7 +16,7 @@
 | 4 | [serial-decoding-basin](https://github.com/Windstorm-Labs/serial-decoding-basin) | ✅ Published | [10.5281/zenodo.19323423](https://doi.org/10.5281/zenodo.19323423) | — |
 | 5 | [dissipative-decoder](https://github.com/Windstorm-Labs/dissipative-decoder) | ✅ Published | [10.5281/zenodo.19433048](https://doi.org/10.5281/zenodo.19433048) | ~6 hrs RTX 5090 |
 | 6 | [inherited-constraint](https://github.com/Windstorm-Labs/inherited-constraint) | ✅ Published | [10.5281/zenodo.19432911](https://doi.org/10.5281/zenodo.19432911) | ~4 hrs RTX 5090 |
-| 7 | [throughput-basin-origin](https://github.com/Windstorm-Labs/throughput-basin-origin) | ✅ Published | [10.5281/zenodo.19498583](https://doi.org/10.5281/zenodo.19498583) · [PDF](https://github.com/Windstorm-Institute/throughput-basin-origin/blob/main/paper/Paper7-Throughput-Basin-Origin-v1.2.pdf) | ~14.5 hrs RTX 5090 |
+| 7 | [throughput-basin-origin](https://github.com/Windstorm-Labs/throughput-basin-origin) | ✅ Published | [10.5281/zenodo.19498583](https://doi.org/10.5281/zenodo.19498583) | ~14.5 hrs RTX 5090 |
 
 **Paper 7 canonical repository:** [Windstorm-Institute/throughput-basin-origin](https://github.com/Windstorm-Institute/throughput-basin-origin). The Labs mirror tracks the experiment protocols; the canonical repo holds the formal manuscript, the internal adversarial review, complete CSVs, plots, and the [Paper 7.1 tracking issue](https://github.com/Windstorm-Institute/throughput-basin-origin/issues/1).
 
