@@ -16,9 +16,9 @@
 | 4 | [serial-decoding-basin](https://github.com/Windstorm-Labs/serial-decoding-basin) | ✅ Published | [10.5281/zenodo.19323423](https://doi.org/10.5281/zenodo.19323423) | — |
 | 5 | [dissipative-decoder](https://github.com/Windstorm-Labs/dissipative-decoder) | ✅ Published | [10.5281/zenodo.19433048](https://doi.org/10.5281/zenodo.19433048) | ~6 hrs RTX 5090 |
 | 6 | [inherited-constraint](https://github.com/Windstorm-Labs/inherited-constraint) | ✅ Published | [10.5281/zenodo.19432911](https://doi.org/10.5281/zenodo.19432911) | ~4 hrs RTX 5090 |
-| 7 | [agi-extensions](https://github.com/Windstorm-Labs/agi-extensions) | 🟡 [PDF](https://github.com/sneakyfree/agi-extensions/blob/main/paper/Paper7-Throughput-Basin-Origin-v1.2.pdf) | Pending Paper 7.1 | ~14.5 hrs RTX 5090 |
+| 7 | [agi-extensions](https://github.com/Windstorm-Labs/agi-extensions) | 🟡 [PDF](https://github.com/Windstorm-Institute/throughput-basin-origin/blob/main/paper/Paper7-Throughput-Basin-Origin-v1.2.pdf) | Pending Paper 7.1 | ~14.5 hrs RTX 5090 |
 
-**Paper 7 canonical repository:** [sneakyfree/agi-extensions](https://github.com/sneakyfree/agi-extensions). The Labs mirror tracks the experiment protocols; the canonical repo holds the formal manuscript, the internal adversarial review, complete CSVs, plots, and the [Paper 7.1 tracking issue](https://github.com/sneakyfree/agi-extensions/issues/1).
+**Paper 7 canonical repository:** [Windstorm-Institute/throughput-basin-origin](https://github.com/Windstorm-Institute/throughput-basin-origin). The Labs mirror tracks the experiment protocols; the canonical repo holds the formal manuscript, the internal adversarial review, complete CSVs, plots, and the [Paper 7.1 tracking issue](https://github.com/Windstorm-Institute/throughput-basin-origin/issues/1).
 
 > **Read this before citing Paper 7.** The paper is published together with its full internal adversarial review, which identifies four blocking items that constrain the headline. The defensible claim is *"At 92M parameters, on Markov synthetic data with corpus-specific BPE tokenizers, training-data token entropy is the dominant predictor of achieved BPT, and we find no positive evidence of a transformer-specific ~4-bit ceiling in this regime."* The stronger claim requires the Paper 7.1 re-runs.
 
