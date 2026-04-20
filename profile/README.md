@@ -18,7 +18,7 @@
 | 6 | [inherited-constraint](https://github.com/Windstorm-Labs/inherited-constraint) | ✅ Published | [10.5281/zenodo.19432911](https://doi.org/10.5281/zenodo.19432911) | ~4 hrs RTX 5090 |
 | 7 | [throughput-basin-origin](https://github.com/Windstorm-Labs/throughput-basin-origin) | ✅ Published | [10.5281/zenodo.19498582](https://doi.org/10.5281/zenodo.19498582) | ~14.5 hrs RTX 5090 |
 | 8 | [vision-basin](https://github.com/Windstorm-Labs/vision-basin) | ✅ Published | [10.5281/zenodo.19672827](https://doi.org/10.5281/zenodo.19672827) | ~30 hrs RTX 5090 |
-| 9 | [hardware-basin](https://github.com/Windstorm-Labs/hardware-basin) | Preprint | Preprint | ~10 hrs RTX 5090 |
+| 9 | [hardware-basin](https://github.com/Windstorm-Labs/hardware-basin) | ✅ Published | [10.5281/zenodo.19672921](https://doi.org/10.5281/zenodo.19672921) | ~10 hrs RTX 5090 |
 
 **Paper 7 canonical repository:** [Windstorm-Institute/throughput-basin-origin](https://github.com/Windstorm-Institute/throughput-basin-origin). The Labs mirror tracks the experiment protocols; the canonical repo holds the formal manuscript, the internal adversarial review, complete CSVs, plots, and the [Paper 7.1 tracking issue](https://github.com/Windstorm-Institute/throughput-basin-origin/issues/1).
 
