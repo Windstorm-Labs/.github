@@ -35,7 +35,7 @@ The same Clausius-inequality lens applied to gravity-adjacent physical systems. 
 | 10 | [phonon-extraction-bound](https://github.com/Windstorm-Labs/phonon-extraction-bound) | ✅ Published | [10.5281/zenodo.20014391](https://doi.org/10.5281/zenodo.20014391) | QuTiP Lindblad — CPU |
 | 11 | [gravitational-entropy-escrow](https://github.com/Windstorm-Labs/gravitational-entropy-escrow) | ✅ Published | [10.5281/zenodo.20032023](https://doi.org/10.5281/zenodo.20032023) | SPARC + Genzel reanalyses — CPU |
 | 12 | [c8-clarification-note](https://github.com/Windstorm-Labs/c8-clarification-note) | ✅ Published | [10.5281/zenodo.20041992](https://doi.org/10.5281/zenodo.20041992) | sympy + numerical — CPU (<1s) |
-| 13 | [lattice-qft-test](https://github.com/Windstorm-Labs/lattice-qft-test) | ✅ Published | [10.5281/zenodo.20043421](https://doi.org/10.5281/zenodo.20043421) | numpy + scipy.linalg.eigh — CPU (~10 min for 1+1D scan); 3+1D companion uses Nvidia GPU |
+| 13 | [lattice-qft-test](https://github.com/Windstorm-Labs/lattice-qft-test) | ✅ Published | [10.5281/zenodo.20057538](https://doi.org/10.5281/zenodo.20057538) | numpy + scipy.linalg.eigh — CPU (~10 min for 1+1D scan); 3+1D companion uses Nvidia GPU |
 
 
 ---
