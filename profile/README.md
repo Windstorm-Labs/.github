@@ -26,7 +26,7 @@
 
 ---
 
-## Track 2 — Entropic Bounds in Analog Systems · 4 papers (Papers 10–13 globally)
+## Track 2 — Entropic Bounds in Analog Systems · 5 papers (Papers 10–14 globally)
 
 The same Clausius-inequality lens applied to gravity-adjacent physical systems. Code mirrors for the Track 2 papers live here; the analyses span QuTiP Lindblad simulations, SPARC and Genzel reanalyses, dimensional-analysis case studies, and lattice quantum field theory.
 
@@ -36,8 +36,7 @@ The same Clausius-inequality lens applied to gravity-adjacent physical systems. 
 | 11 | [gravitational-entropy-escrow](https://github.com/Windstorm-Labs/gravitational-entropy-escrow) | ✅ Published | [10.5281/zenodo.20032023](https://doi.org/10.5281/zenodo.20032023) | SPARC + Genzel reanalyses — CPU |
 | 12 | [c8-clarification-note](https://github.com/Windstorm-Labs/c8-clarification-note) | ✅ Published | [10.5281/zenodo.20041992](https://doi.org/10.5281/zenodo.20041992) | sympy + numerical — CPU (<1s) |
 | 13 | [lattice-qft-test](https://github.com/Windstorm-Labs/lattice-qft-test) | ✅ Published | [10.5281/zenodo.20057538](https://doi.org/10.5281/zenodo.20057538) | numpy + scipy.linalg.eigh — CPU (~10 min for 1+1D scan); 3+1D companion uses Nvidia GPU |
-
-
+| 14 | [Spacetime as Escrow Bookkeeping](https://github.com/Windstorm-Institute/escrow-spacetime) *(5th in track; translation of standard GR results into the escrow vocabulary; companion to Paper 11)* | [10.5281/zenodo.20126091](https://doi.org/10.5281/zenodo.20126091) | [Labs](https://github.com/Windstorm-Labs/escrow-spacetime) |
 ---
 
 ## Quick Links
